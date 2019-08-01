@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+yarn.lock
+logs
+*.log
+npm-debug.log*
+.eslintcache
+/dist
+.DS_Store
+Thumbs.db
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
